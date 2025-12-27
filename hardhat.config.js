@@ -13,7 +13,7 @@ module.exports = {
   },
   networks: {
     hardhat: {},
-    // 可以根据需要添加其他网络配置
+    // Additional network configurations can be added as needed
   }
 };
 

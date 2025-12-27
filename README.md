@@ -134,7 +134,7 @@ UniMex-Smart-Contract/
 ├── hardhat.config.js       # Hardhat configuration
 ├── package.json            # Project dependencies
 ├── README.md               # Project documentation
-└── UNX Whitepaper V1.0 英文.pdf  # Whitepaper document
+└── UNX Whitepaper V1.0 英文.pdf  # UNX Whitepaper V1.0 (English)
 ```
 
 ## Installation
@@ -203,7 +203,7 @@ UNX is not intended for distribution to, or use by, any person or entity in juri
 
 ## Documentation
 
-For detailed technical documentation, please refer to: [UNX Whitepaper V1.0 英文.pdf](./UNX%20Whitepaper%20V1.0%20英文.pdf)
+For detailed technical documentation, please refer to: [UNX Whitepaper V1.0 (English)](./UNX%20Whitepaper%20V1.0%20英文.pdf)
 
 ## License
 
