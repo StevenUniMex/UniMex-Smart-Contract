@@ -1,6 +1,6 @@
 # UniMex Smart Contract
 
-UniMex Exchange Smart Contract - wstUNX Token
+UniMex Exchange - wstUNX Token
 
 ## Project Overview
 
@@ -212,7 +212,7 @@ MIT License
 ## Contact
 
 - GitHub: [StevenUniMex/UniMex-Smart-Contract](https://github.com/StevenUniMex/UniMex-Smart-Contract)
-- Website: [UniMex](https://unimex.io)
+- Website: [UniMex](https://unimexexchange.com)
 
 ---
 
