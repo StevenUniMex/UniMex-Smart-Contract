@@ -1,0 +1,28 @@
+{
+  "name": "unimex-smart-contract",
+  "version": "1.0.0",
+  "description": "UniMex Exchange Smart Contract - wstUNX Token",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.js"
+  },
+  "keywords": [
+    "unimex",
+    "exchange",
+    "smart-contract",
+    "ethereum",
+    "defi"
+  ],
+  "author": "UniMex",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
+
